@@ -46,5 +46,22 @@ namespace insults
             return firstWord[r.Next(firstWord.Count())] + " " + secondWord[r.Next(secondWord.Count())]
                  + " " + thirdWord[r.Next(thirdWord.Count())];
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            List<string> combos = new List<string>();
+            foreach (var x in firstWord)
+            {
+                foreach (var y in secondWord)
+                {
+                    foreach (var z in thirdWord)
+                    {
+                        combos.Add(x + " " + y + " " + z);
+                    }
+                }
+            }
+
+            textBox2.Text = string.Join(Environment.NewLine, combos);
+        }
     }
 }
