@@ -1,0 +1,17 @@
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\bin\Release\insults.exe.config
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\bin\Release\insults.exe
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\bin\Release\insults.pdb
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Release\insults.Form1.resources
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Release\insults.Properties.Resources.resources
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Release\insults.csproj.GenerateResource.Cache
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Release\insults.exe
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Release\insults.pdb
+C:\Users\halfmonty\Documents\Visual Studio 2013\Projects\insults\Source Code\insults\bin\Release\insults.exe.config
+C:\Users\halfmonty\Documents\Visual Studio 2013\Projects\insults\Source Code\insults\obj\Release\insults.exe
+C:\Users\halfmonty\Documents\Visual Studio 2013\Projects\insults\Source Code\insults\obj\Release\insults.pdb
+C:\Users\halfmonty\Documents\Visual Studio 2013\Projects\insults\Source Code\insults\bin\Release\insults.exe
+C:\Users\halfmonty\Documents\Visual Studio 2013\Projects\insults\Source Code\insults\bin\Release\insults.pdb
+C:\Users\halfmonty\Documents\Visual Studio 2013\Projects\insults\Source Code\insults\obj\Release\insults.csprojResolveAssemblyReference.cache
+C:\Users\halfmonty\Documents\Visual Studio 2013\Projects\insults\Source Code\insults\obj\Release\insults.Form1.resources
+C:\Users\halfmonty\Documents\Visual Studio 2013\Projects\insults\Source Code\insults\obj\Release\insults.Properties.Resources.resources
+C:\Users\halfmonty\Documents\Visual Studio 2013\Projects\insults\Source Code\insults\obj\Release\insults.csproj.GenerateResource.Cache

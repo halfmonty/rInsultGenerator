@@ -1,0 +1,9 @@
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\bin\Debug\insults.exe.config
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\bin\Debug\insults.exe
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\bin\Debug\insults.pdb
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Debug\insults.csprojResolveAssemblyReference.cache
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Debug\insults.Form1.resources
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Debug\insults.Properties.Resources.resources
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Debug\insults.csproj.GenerateResource.Cache
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Debug\insults.exe
+c:\users\halfmonty\documents\visual studio 2013\Projects\insults\insults\obj\Debug\insults.pdb
